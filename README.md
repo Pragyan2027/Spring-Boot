@@ -10,7 +10,7 @@ I'm currently diving deep into the **Spring Boot ecosystem**, exploring various 
 - Creating loosely-coupled components using **Spring Containers**
 
 ### ⚙️ Spring Boot
-- Auto-configuration & embedded servers
+- Auto-configuration , DevTools & embedded servers
 - Building RESTful APIs with ease
 - Simplified project setup with `spring-boot-starter` dependencies
 
